@@ -1,0 +1,46 @@
+https://scratch.mit.edu/download#installation
+
+xpath
+https://zhuanlan.zhihu.com/p/29436838
+https://zhuanlan.zhihu.com/p/35355747
+
+scrapy-json
+https://www.bilibili.com/video/av33961522
+
+selenium
+https://www.bilibili.com/video/av35122164/?p=8&t=312
+
+scrapy 字段重复，是item原因
+https://www.bilibili.com/video/av44492221/?p=71
+
+cookie字典取值法
+cookies= “Hm_lvt_c295f223f146f7bb138fbfc04e4bcec2=1558747173,1558830061,1558916317; Hm_lpvt_c295f223f146f7bb138fbfc04e4bcec2=1558916379”
+cookie = {i.spilt("=")[0]：i.spilt("=")[1] for i in cookies.split(";")}
+
+matplotlib+pyecharts使用详解
+https://blog.csdn.net/u010700066/article/details/80835018
+
+Python的高阶函数、装饰器，反射、元编程、各种魔术方法，Python的解释器运行机制是什么，垃圾回收原理又是什么，为什么Python多线程鸡肋？GIL无解了吗？
+
+
+https://www.questmobile.com.cn/api/v1/research/reports?categoryId=23&version=0&currentPage=1&limit=6
+
+PyQt5
+https://github.com/cxinping/PyQt5
+https://github.com/maicss/PyQt5-Chinese-tutorial/blob/master/hello_world.md
+https://www.bilibili.com/video/av54310770/?p=27
+
+
+可以用scratch开发app吗
+App Inventor
+
+
+搞笑网站
+
+
+微信小程序
+https://www.bilibili.com/video/av40455083/?p=24
+https://www.zhihu.com/question/50907897/answer/128494332
+display:flex布局介绍		https://www.cnblogs.com/huihuizhang/p/7998902.html 
+
+
